@@ -1,6 +1,7 @@
-👋 Hola, soy Seba
+👋 Hola, soy Sebas
 
-Soy un estudiante de programacion, actualmente cursando Tecnicatura en programacion de la UTN
+Soy artista de pixel art y estudiante de programacion, actualmente cursando Tecnicatura en programacion de la UTN
+Fanatico de los juegos desde chico y de toda su industria, actualmente de preferencia Indies.
 
 ⌨️ Programming Stuff
 
