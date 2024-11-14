@@ -6,7 +6,7 @@ Fanatico de los juegos desde chico y de toda su industria, actualmente de prefer
 
 ⌨️ Programming Stuff
 
-Actualmente no tengo experiencia en ningun codigo y estoy aprendiendo C, aun asi estoy creando mi propio juego en RPG Maker MV, he intentado hacer mods para el juego Minecraft con Java.
+Actualmente no tengo experiencia en ningun codigo y estoy aprendiendo C, aun asi estoy creando mi propio juego en RPG Maker MV y he intentado hacer mods para el juego Minecraft con Java.
 
 💻 Socials
 
