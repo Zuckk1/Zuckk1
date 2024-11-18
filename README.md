@@ -6,7 +6,7 @@ Fanatico de los juegos desde chico y de toda su industria, actualmente de prefer
 
 ⌨️ Programming Stuff
 
-Actualmente no tengo experiencia en ningun codigo y estoy aprendiendo C, aun asi estoy creando mi propio juego en RPG Maker MV y hago mapas con la herramienta "Hammer" para juegos Source
+Actualmente estoy aprendiendo C, aun asi estoy creando mi propio juego en RPG Maker MV y hago mapas con la herramienta "Hammer" para juegos Source
 
 💻 Socials
 
